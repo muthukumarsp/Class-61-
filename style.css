@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+}
+#app{
+    background-color: bisque;
+}
+#myCarousel{
+    background-color: blueviolet;
+}
+#myCarousel img{
+    height: 300px;
+    margin: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
